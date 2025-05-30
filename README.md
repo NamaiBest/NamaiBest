@@ -1,7 +1,7 @@
-<h1 align="center">Hi , I'm Namai</h1>
+<h1 align="center">Howdy! I'm Namai</h1>
 <h3 align="center">Undergraduate Dual-Major: Electronics & Product Design</h3>
 
-- 🔭 I’m currently working on **Origami in Robotics mapping bot**
+- 🔭 I’m currently working on **Origami in Robotics | SLAM Bot**
 
 - 🌱 I’m currently learning **ROS2 | SLAM**
 
