@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Namai</h1>
-<h3 align="center">Undergraduate Dual-Major</h3>
+<h3 align="center">Undergraduate Dual-Major: Electronics & Product Design</h3>
 
 - 🔭 I’m currently working on **Origami in Robotics mapping bot**
 
