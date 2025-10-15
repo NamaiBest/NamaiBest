@@ -1,9 +1,9 @@
 <h1 align="center">Howdy! I'm Namai</h1>
 <h3 align="center">Undergraduate Dual-Major: Electronics & Product Design</h3>
 
-- 🔭 I’m currently working on **Origami in Robotics | SLAM Bot**
+- 🔭 I’m currently working on **AI|ML stuff| Simulations**
 
-- 🌱 I’m currently learning **ROS2 | SLAM**
+- 🌱 I’m currently learning **Mujoco Playground**
 
 - 👨‍💻 All of my projects are available at [https://www.namaicv.com](https://www.namaicv.com)
 
