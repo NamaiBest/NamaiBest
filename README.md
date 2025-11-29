@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI|ML stuff| Simulations and Innovative Glider (cannot disclose much stuff)**
 
-- 🌱 I’m currently learning **Mujoco Playground**
+- 🌱 I’m currently learning **PINN + RL**
 
 - 👨‍💻 All of my projects are available at [https://www.namaicv.com](https://www.namaicv.com)
 
