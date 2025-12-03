@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! I'm Namai</h1>
 <h3 align="center">Undergraduate Interdisiplinary Dual-Major: Electronics & Product Design</h3>
 
-- 🔭 I’m currently working on **AI|ML stuff| Morphing Bot (cannot disclose much stuff)**
+- 🔭 I’m currently working on **AI|ML stuff| Morphing Rover (cannot disclose much stuff)**
 
 - 🌱 I’m currently learning **PINN + RL**
 
