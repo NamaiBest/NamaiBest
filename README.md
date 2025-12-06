@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **namaimailm@gmail.com**
 
-- ⚡ Fun fact **I rejected NYU...**
+- ⚡ Fun fact **I rejected NYU...** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
