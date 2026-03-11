@@ -83,3 +83,7 @@
 </p>
 
 
+Hi, thanks for stopping by!
+And yes… the username “NamaiBest” was chosen in middle school. At the time it felt legendary. Now it's just part of the brand 😄
+
+
