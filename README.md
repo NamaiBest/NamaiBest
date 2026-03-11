@@ -1,6 +1,10 @@
 <h1 align="center">Howdy! I'm Namai</h1>
 <h3 align="center">Undergraduate Interdisciplinary Dual-Major: Electronics & Product Design</h3>
 
+
+<h4 align="center"> Hi, thanks for stopping by!
+And yes… the username “NamaiBest” was chosen in middle school. At the time it felt legendary. Now it's just part of the brand 😄 </h4>
+
 ---
 
 - 🔭 I’m currently working on **AI | ML stuff | Morphing Rover (cannot disclose much)**
@@ -82,8 +86,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namaibest&theme=default&hide_border=false&layout=compact" />
 </p>
 
-
-Hi, thanks for stopping by!
-And yes… the username “NamaiBest” was chosen in middle school. At the time it felt legendary. Now it's just part of the brand 😄
 
 
